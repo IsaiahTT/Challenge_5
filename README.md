@@ -38,7 +38,7 @@ To install python-dotenv, enter `pip install python-dotenv` into your terminal. 
 
 #### and ten years into the future:
 
-![A screenshot depicts the resulting plot.](Starter_Code/Images/thirtyyear_MC_dist_plot.png)
+![A screenshot depicts the resulting plot.](Starter_Code/Images/thirtyyear_MC_sim_plot.png)
 
 ![A screenshot depicts the resulting plot.](Starter_Code/Images/thirtyyear_MC_dist_plot.png)
 
