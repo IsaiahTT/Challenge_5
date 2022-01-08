@@ -31,12 +31,16 @@ To install python-dotenv, enter `pip install python-dotenv` into your terminal. 
 ## Usage
 
 #### Examples of forcast charts for a member's portfolio thirty years into the future:
-![A screenshot depicts the resulting plot.](./Images/MC_tenyear_sim_line_plot.png)
-![A screenshot depicts the resulting plot.](./Images/MC_tenyear_sim_dist_plot.png)
+
+![A screenshot depicts the resulting plot.](Images/MC_tenyear_sim_line_plot.png)
+
+![A screenshot depicts the resulting plot.](Images/MC_tenyear_sim_dist_plot.png)
 
 #### and ten years into the future:
-![A screenshot depicts the resulting plot.](./Images/thirtyyear_MC_dist_plot.png)
-![A screenshot depicts the resulting plot.](./Images/thirtyyear_MC_dist_plot.png)
+
+![A screenshot depicts the resulting plot.](Images/thirtyyear_MC_dist_plot.png)
+
+![A screenshot depicts the resulting plot.](Images/thirtyyear_MC_dist_plot.png)
 
 All info is already input and worked on within the Jupyter file. Simply start from the top and go down the page to view relevant data, calculations, analysis, and notes. Most notes are written as Markdown text.
 
